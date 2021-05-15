@@ -1,0 +1,19 @@
+{
+  "name": "maisscrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "puppeteer": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Caio Domingues <caiodss99@hotmail.com>",
+  "license": "ISC",
+  "type": "module"
+}
