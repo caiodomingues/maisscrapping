@@ -132,7 +132,7 @@ const exec = () => {
       .then((res) => {
         tries = 0;
         console.log(
-          "Publicação encontrada, reiniciando contador de tentativas, salvando data de publicação no arquivo"
+          "Publicação encontrada, reiniciando contador de tentativas, salvando data de publicação no arquivo\n"
         );
         writeFileSync("lastPost.json", JSON.stringify({ lastPost: publish }));
       })
