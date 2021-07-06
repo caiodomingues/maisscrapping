@@ -1,5 +1,7 @@
 # Mais Scrapping
 
+<div style="text-align:center"><img src="assets/wk.png" /></div>
+
 This project was created with the objective of receiving the most recent news from MaisEsports through a Discord channel.
 
 ## Starting
