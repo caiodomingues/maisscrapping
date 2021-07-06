@@ -109,7 +109,7 @@ const exec = () => {
     console.log("Enviando POST no Webhook");
     api
       .post(
-        "https://discord.com/api/webhooks/822178829949861939/kIwSahLnE3OjLbV2vwoFbooveY3DQ1JYtV24PPV4xfVtY2NoA4VeJuffzlJ3TWar09vN",
+        "YOUR_DISCORD_HEBHOOK_URL_HERE",
         {
           username: "Mais Esports",
           avatar_url:
